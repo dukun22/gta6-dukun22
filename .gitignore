@@ -1,0 +1,4 @@
+# Kota Senja build output — generated locally by `MAKEFUN_OUTPUT_DIR=out node main.ts`,
+# never part of the entry itself.
+out/
+node_modules/
